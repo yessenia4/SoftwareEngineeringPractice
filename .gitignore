@@ -1,0 +1,7 @@
+#ignore html
+*.html
+
+#ignore .class files
+*.class
+
+
