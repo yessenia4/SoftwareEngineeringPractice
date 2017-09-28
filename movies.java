@@ -5,4 +5,14 @@ public class movies(){
 
 	public setName(){
 	}
+	public getName(){
+	}
+	public setYear(){
+	}
+	public getYear(){
+	}
+	public setgenre(){
+	}
+	public getgenre(){
+	}
 }
